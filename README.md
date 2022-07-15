@@ -15,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+[Perancangan Sistem aplikasi Wisata.pptx](https://github.com/celvinpatrisius/travel_app/files/9121634/Perancangan.Sistem.aplikasi.Wisata.pptx)
+[Perancangan Sistem Informasi wisata di Manggarai.pdf](https://github.com/celvinpatrisius/travel_app/files/9121672/Perancangan.Sistem.Informasi.wisata.di.Manggarai.pdf)
